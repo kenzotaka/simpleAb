@@ -14,7 +14,7 @@ Documentation
 
 ・「TOPページグループ」、「A/Bテストグループ」のどちらかだけを使用する場合、またそれぞれの項目タイトルを変更するには、Event/SimleAbHelperEventListener.phpのformAfterForm()を変更する事で改変可能です。
 
-・Form.afterForm イベントを使用しますので、baserCMS 3.6.0以上のバージョンが必要です。
+・Form.afterForm イベントを使用しますので、baserCMS 3.0.6以上のバージョンが必要です。
 
 License
 -------
